@@ -11,7 +11,8 @@ export function Header(){
       <header>
         <Image src={imgMCC} alt="logo MCC"/>
         <nav>
-          <Link href="/">Blog</Link>
+          <Link href="/">Home</Link>
+          <Link href="/blog">Blog</Link>
         </nav>
       </header>
     </div>

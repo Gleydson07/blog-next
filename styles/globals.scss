@@ -1,5 +1,8 @@
 :root{
-  
+  --background: #f2f2fc;
+  --purple: #34085f;
+  --purple-light: #9f48f780;
+  --white: #fff;
 }
 
 * {
@@ -9,6 +12,6 @@
 }
 
 body{
-  background-color: #f2f2fc;
+  background-color: var(--background);
   font-family: 'Lato', sans-serif;
 }
